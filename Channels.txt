@@ -15,7 +15,7 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRT SPOR HD.tr" tvg-name="TRT Spor" tvg-language="Turkish" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-spor-tr.png?raw=true" group-title="Spor",TRT Spor
-http://162.212.179.33:80/dvrfl05/gin-trtspor2/playlist.m3u8
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-cocuk-tr.png?raw=true" group-title="Çizgi Film",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
@@ -83,7 +83,7 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 
 #EXTINF:-1 tvg-id="cnntürk.tr" tvg-name="CNN Turk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/cnn-turk-tr.png?raw=true" group-title="Haberler",CNN Türk
-http://78.128.125.60:9981/play/a01f/index.m3u8
+https://goldvod.org/live/hpgdiscoo/123456/109.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-name="DMAX" tvg-language="Turkish" tvg-logo="https://mb.cision.com/Public/18576/3169816/94ade76b90036da2_800x800ar.jpg" group-title="Belgesel",DMAX - [Coğrafi olarak engelleni]
 http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
