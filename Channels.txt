@@ -53,7 +53,7 @@ https://canlitvulusal.xyz/live/showturk/index.m3u8
 http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/48868
 
 #EXTINF:-1 tvg-name="Star TV" tvg-id="STAR TV HD.tr" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="Genel Eğlence",Star TV
-http://95.174.71.114/TR-STAR/index.m3u8
+https://dogus.daioncdn.net/startv/startv.m3u8?ce=3&app=1740db13-3ee9-4858-8d2c-b1a9cfaa3718
 
 #EXTINF:-1 tvg-id="KANAL 7 HD.tr" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/kanal-7-tr.png?raw=true" group-title="Genel Eğlence",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
