@@ -8,9 +8,6 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-language="Turkish" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-2-tr.png?raw=true" group-title="Sanat ve Kültür",TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8 
 
-#EXTINF:-1 tvg-id="TRT 4K.tr" tvg-name="TRT 4K" tvg-language="Turkish" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-4k-tr.png?raw=true" group-title="Genel Eğlence",TRT 4K
-http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
-
 #EXTINF:-1 tvg-id="TRTHaber HD.tr" tvg-name="TRT Haber" tvg-language="Turkish" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-haber-tr.png?raw=true" group-title="Haberler",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
