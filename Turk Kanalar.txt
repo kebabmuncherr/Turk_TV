@@ -1,0 +1,21 @@
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey1.xml, https://www.open-epg.com/files/turkey2.xml, https://www.open-epg.com/files/turkey3.xml, https://www.open-epg.com/files/turkey4.xml, https://www.open-epg.com/files/turkey5.xml"
+
+Government channels (TRT - Turkish Radio and Television Corporation)
+
+#EXTINF:-1 tvg-id="TRT1 HD.tr" tvg-name="TRT 1" tvg-language="Turkish" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-1-tr.png?raw=true" group-title="Genel Eğlence",TRT 1
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-language="Turkish" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-2-tr.png?raw=true" group-title="Sanat ve Kültür",TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8 
+
+#EXTINF:-1 tvg-id="TRT 4K.tr" tvg-name="TRT 4K" tvg-language="Turkish" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-4k-tr.png?raw=true" group-title="Genel Eğlence",TRT 4K
+http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
+
+#EXTINF:-1 tvg-id="TRTHaber HD.tr" tvg-name="TRT Haber" tvg-language="Turkish" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-haber-tr.png?raw=true" group-title="Haberler",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Çocuk" tvg-language="Turkish" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-cocuk-tr.png?raw=true" group-title="Çizgi Film",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld HD.tr" tvg-name="TRT World" tvg-language="Turkish" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/turkey/trt-world-tr.png?raw=true" group-title="Haberler",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
